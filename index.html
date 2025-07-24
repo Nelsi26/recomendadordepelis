@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Recomendador de Películas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h2>🎥 Recomendador de Películas</h2>
+
+ <select id="genero">
+  <option value="" selected disabled>Elige tu género</option>
+  <option value="accion">Acción</option>
+  <option value="drama">Drama</option>
+  <option value="ciencia ficcion">Ciencia Ficción</option>
+  <option value="romance">Romance</option>
+  <option value="terror">Terror</option>
+</select>
+
+
+  <br /><br />
+
+ <button id="toggleRecomendacionesBtn" onclick="toggleRecomendaciones()" data-estado="inicio">Recomendar</button>
+
+
+  <h3>Películas recomendadas:</h3>
+  <ul id="resultado"></ul>
+
+  <!-- MODAL -->
+  <div id="infoModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="cerrarModal()">&times;</span>
+      <h3 id="modalTitulo"></h3>
+      <p id="modalDescripcion"></p>
+      <p><strong>Plataforma:</strong> <a id="modalPlataformaEnlace" href="#" target="_blank"></a></p>
+      <img id="modalLogo" class="platform-logo" src="" alt="logo plataforma" />
+      <!-- Botón para marcar como visto dentro del modal -->
+      <button id="botonVisto" class="boton-visto"></button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

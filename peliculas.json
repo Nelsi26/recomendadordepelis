@@ -1,0 +1,386 @@
+ [
+  { "titulo": "Interstellar", "genero": "ciencia ficcion", "descripcion": "Un grupo de exploradores viaja por un agujero de gusano para salvar a la humanidad.", "plataforma": "HBO Max" },
+  { "titulo": "Inception", "genero": "ciencia ficcion", "descripcion": "Un ladrón experto roba secretos infiltrándose en los sueños.", "plataforma": "Netflix" },
+  { "titulo": "Matrix", "genero": "ciencia ficcion", "descripcion": "Un hacker descubre la verdad sobre la realidad simulada que lo rodea.", "plataforma": "HBO Max" },
+  { "titulo": "Avatar", "genero": "ciencia ficcion", "descripcion": "Un exmarine se adentra en el mundo de Pandora y su cultura alienígena.", "plataforma": "Disney+" },
+  { "titulo": "Her", "genero": "ciencia ficcion", "descripcion": "Un escritor solitario se enamora de una inteligencia artificial.", "plataforma": "Star+" },
+  { "titulo": "Dune", "genero": "ciencia ficcion", "descripcion": "Una familia noble lucha por el control del planeta más valioso del universo.", "plataforma": "HBO Max" },
+  { "titulo": "El Origen del Planeta de los Simios", "genero": "ciencia ficcion", "descripcion": "Un experimento da origen a una revolución de simios inteligentes.", "plataforma": "Disney+" },
+  { "titulo": "Ex Machina", "genero": "ciencia ficcion", "descripcion": "Un programador evalúa a una inteligencia artificial avanzada.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Blade Runner 2049", "genero": "ciencia ficcion", "descripcion": "Un replicante descubre un secreto que podría cambiar el mundo.", "plataforma": "HBO Max" },
+  { "titulo": "Ready Player One", "genero": "ciencia ficcion", "descripcion": "Un joven lucha por el control de un mundo de realidad virtual.", "plataforma": "HBO Max" },
+
+  { "titulo": "Titanic", "genero": "romance", "descripcion": "Una historia de amor entre clases sociales a bordo del famoso barco.", "plataforma": "Star+" },
+  { "titulo": "La La Land", "genero": "romance", "descripcion": "Un músico y una actriz persiguen sus sueños mientras se enamoran.", "plataforma": "Netflix" },
+  { "titulo": "The Notebook", "genero": "romance", "descripcion": "Una pareja enfrenta los desafíos del tiempo y la memoria.", "plataforma": "Netflix" },
+  { "titulo": "Pride and Prejudice", "genero": "romance", "descripcion": "Una mujer de espíritu fuerte desafía las normas sociales del siglo XIX.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "500 Días con Ella", "genero": "romance", "descripcion": "Una historia no lineal sobre el amor, la pérdida y la madurez emocional.", "plataforma": "Star+" },
+  { "titulo": "Antes del Amanecer", "genero": "romance", "descripcion": "Dos desconocidos se conocen y se enamoran en un solo día en Viena.", "plataforma": "Netflix" },
+  { "titulo": "Orgullo y Prejuicio", "genero": "romance", "descripcion": "Una clásica historia de amor entre Elizabeth Bennet y el señor Darcy.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Yo Antes de Ti", "genero": "romance", "descripcion": "Una joven forma un vínculo con un hombre tetrapléjico al que cuida.", "plataforma": "HBO Max" },
+  { "titulo": "Diario de una Pasión", "genero": "romance", "descripcion": "Una historia de amor escrita en las páginas de un diario.", "plataforma": "Netflix" },
+  { "titulo": "Querido John", "genero": "romance", "descripcion": "Una pareja se mantiene unida por cartas durante la guerra.", "plataforma": "Paramount+" },
+
+  { "titulo": "John Wick", "genero": "accion", "descripcion": "Un asesino retirado busca venganza tras la muerte de su perro.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Mad Max: Furia en la Carretera", "genero": "accion", "descripcion": "En un mundo postapocalíptico, una rebelión se levanta contra un tirano.", "plataforma": "HBO Max" },
+  { "titulo": "Gladiador", "genero": "accion", "descripcion": "Un general romano convertido en esclavo busca vengar a su familia.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Die Hard", "genero": "accion", "descripcion": "Un policía enfrenta terroristas en un edificio de oficinas.", "plataforma": "Star+" },
+  { "titulo": "Los Vengadores", "genero": "accion", "descripcion": "Un grupo de superhéroes se une para salvar al mundo.", "plataforma": "Disney+" },
+  { "titulo": "Misión Imposible", "genero": "accion", "descripcion": "Un agente secreto se enfrenta a traiciones y misiones imposibles.", "plataforma": "Paramount+" },
+  { "titulo": "El Caballero Oscuro", "genero": "accion", "descripcion": "Batman enfrenta a su némesis más peligroso: el Joker.", "plataforma": "HBO Max" },
+  { "titulo": "Tenet", "genero": "accion", "descripcion": "Un agente manipula el tiempo para evitar la Tercera Guerra Mundial.", "plataforma": "HBO Max" },
+  { "titulo": "Extraction", "genero": "accion", "descripcion": "Un mercenario es enviado a rescatar al hijo de un criminal.", "plataforma": "Netflix" },
+  { "titulo": "The Equalizer", "genero": "accion", "descripcion": "Un exagente encubierto busca justicia para los oprimidos.", "plataforma": "Amazon Prime Video" },
+
+  { "titulo": "El Padrino", "genero": "drama", "descripcion": "La historia de una poderosa familia mafiosa en EE. UU.", "plataforma": "Paramount+" },
+  { "titulo": "Forrest Gump", "genero": "drama", "descripcion": "Un hombre con una vida increíble atraviesa décadas de historia.", "plataforma": "Paramount+" },
+  { "titulo": "El Pianista", "genero": "drama", "descripcion": "Un músico judío lucha por sobrevivir en el gueto de Varsovia.", "plataforma": "Star+" },
+  { "titulo": "El Discurso del Rey", "genero": "drama", "descripcion": "El rey Jorge VI lucha por superar su tartamudez con la ayuda de un terapeuta.", "plataforma": "Netflix" },
+  { "titulo": "Joker", "genero": "drama", "descripcion": "Un hombre ignorado por la sociedad se convierte en un símbolo del caos.", "plataforma": "HBO Max" },
+  { "titulo": "El Lado Luminoso de la Vida", "genero": "drama", "descripcion": "Dos personas con problemas emocionales encuentran una conexión inesperada.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "En Busca de la Felicidad", "genero": "drama", "descripcion": "Un padre lucha contra la pobreza para asegurarle un futuro a su hijo.", "plataforma": "Netflix" },
+  { "titulo": "La Lista de Schindler", "genero": "drama", "descripcion": "Un empresario alemán salva a cientos de judíos durante el Holocausto.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Manchester by the Sea", "genero": "drama", "descripcion": "Un hombre lidia con el dolor de una pérdida y la culpa del pasado.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "La Red Social", "genero": "drama", "descripcion": "El nacimiento de Facebook y los conflictos entre sus creadores.", "plataforma": "Netflix" }
+, {"titulo": "The Matrix Reloaded", "genero": "ciencia ficcion", "descripcion": "Neo continúa su batalla contra las máquinas para salvar Zion.", "plataforma": "HBO Max" },
+  { "titulo": "Gravity", "genero": "ciencia ficcion", "descripcion": "Una astronauta lucha por la supervivencia tras un accidente en el espacio.", "plataforma": "Netflix" },
+  { "titulo": "Minority Report", "genero": "ciencia ficcion", "descripcion": "En un futuro donde se detienen crímenes antes de que ocurran.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Ready Player Two", "genero": "ciencia ficcion", "descripcion": "Continúan las aventuras en el mundo virtual de OASIS.", "plataforma": "HBO Max" },
+  { "titulo": "Passengers", "genero": "ciencia ficcion", "descripcion": "Dos pasajeros se despiertan 90 años antes de lo planeado en una nave espacial.", "plataforma": "Netflix" },
+  { "titulo": "El Juego de Ender", "genero": "ciencia ficcion", "descripcion": "Un niño prodigio entrena en una guerra intergaláctica simulada.", "plataforma": "Star+" },
+  { "titulo": "Alita: Ángel de Combate", "genero": "ciencia ficcion", "descripcion": "Un cyborg con amnesia descubre su fuerza y origen.", "plataforma": "Disney+" },
+  { "titulo": "Transformers", "genero": "ciencia ficcion", "descripcion": "Robots alienígenas luchan en la Tierra delante de los ojos de los humanos.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Edge of Tomorrow", "genero": "ciencia ficcion", "descripcion": "Un soldado revive el mismo día de batalla una y otra vez.", "plataforma": "HBO Max" },
+  { "titulo": "Jurassic World", "genero": "ciencia ficcion", "descripcion": "Un parque temático con dinosaurios revive hasta que algo sale mal.", "plataforma": "Netflix" },
+
+  { "titulo": "Casablanca", "genero": "romance", "descripcion": "Clásico del cine donde dos amantes se reencuentran en la Segunda Guerra Mundial.", "plataforma": "Paramount+" },
+  { "titulo": "Romeo + Julieta", "genero": "romance", "descripcion": "Versión moderna y estilizada del clásico de Shakespeare.", "plataforma": "Star+" },
+  { "titulo": "El diario de Bridget Jones", "genero": "romance", "descripcion": "Una mujer soltera y sus enredos románticos en Londres.", "plataforma": "Netflix" },
+  { "titulo": "Call Me by Your Name", "genero": "romance", "descripcion": "Un romance de verano en el norte de Italia entre dos jóvenes.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Crazy Rich Asians", "genero": "romance", "descripcion": "Una joven descubre que su novio es uno de los solteros más codiciados de Asia.", "plataforma": "HBO Max" },
+  { "titulo": "Blue Valentine", "genero": "romance", "descripcion": "La evolución del amor y el desamor de una pareja a través del tiempo.", "plataforma": "HBO Max" },
+  { "titulo": "Moonlight", "genero": "drama", "descripcion": "Un joven afroamericano navega su identidad y sexualidad en Miami.", "plataforma": "Netflix" },
+  
+  { "titulo": "Drive", "genero": "drama", "descripcion": "Un conductor misterioso trabaja como doble en escenas y criminal ocasional.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Whiplash", "genero": "drama", "descripcion": "Un joven baterista lucha por la aprobación de un exigente instructor.", "plataforma": "HBO Max" },
+  { "titulo": "The Social Network", "genero": "drama", "descripcion": "Cómo se creó Facebook y los conflictos entre sus fundadores.", "plataforma": "Netflix" },
+  { "titulo": "Slumdog Millionaire", "genero": "drama", "descripcion": "Un joven de las calles de Mumbai participa en un concurso de preguntas para reencontrarse con su amor.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "The Revenant", "genero": "drama", "descripcion": "Un hombre lucha por sobrevivir en el desierto tras ser abandonado por su grupo.", "plataforma": "Star+" },
+  { "titulo": "Spotlight", "genero": "drama", "descripcion": "Un equipo de periodistas investiga abusos dentro de la Iglesia Católica.", "plataforma": "HBO Max" },
+  { "titulo": "Gran Torino", "genero": "drama", "descripcion": "Un veterano de guerra forma un inusual lazo con su joven vecino.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "12 Years a Slave", "genero": "drama", "descripcion": "La historia real de un hombre libre que fue vendido como esclavo en EE. UU.", "plataforma": "Netflix" },
+  { "titulo": "Birdman", "genero": "drama", "descripcion": "Un actor en declive busca redención tras un fracaso teatral.", "plataforma": "Star+" },
+
+  { "titulo": "John Wick: Capítulo 2", "genero": "accion", "descripcion": "John Wick se ve obligado a regresar al mundo criminal internacional.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Logan", "genero": "accion", "descripcion": "Un Wolverine envejecido protege a una niña mutante en un futuro sombrío.", "plataforma": "HBO Max" },
+  { "titulo": "Skyfall", "genero": "accion", "descripcion": "James Bond regresa para enfrentarse a un enemigo del pasado.", "plataforma": "Netflix" },
+  { "titulo": "Kingsman", "genero": "accion", "descripcion": "Una agencia de espías entrena a un joven inadaptado.", "plataforma": "Star+" },
+  { "titulo": "Deadpool", "genero": "accion", "descripcion": "Un antihéroe irreverente busca venganza con humor y caos.", "plataforma": "Disney+" },
+  { "titulo": "Mad Max: Furia en el Camino", "genero": "accion", "descripcion": "Una rebelión a través del desierto postapocalíptico liderada por Furiosa.", "plataforma": "HBO Max" },
+  { "titulo": "Baby Driver", "genero": "accion", "descripcion": "Un joven conductor es clave en robos impulsados por música.", "plataforma": "Netflix" },
+  { "titulo": "La Jungla de Cristal", "genero": "accion", "descripcion": "Un policía lucha contra terroristas en un edificio durante Navidad.", "plataforma": "Paramount+" },
+
+  { "titulo": "La La Land", "genero": "romance", "descripcion": "Un músico y una actriz persiguen sus carreras mientras se enamoran.", "plataforma": "Netflix" },
+  { "titulo": "Shakespeare in Love", "genero": "romance", "descripcion": "Un joven Shakespeare encuentra inspiración y amor en secreto.", "plataforma": "Star+" },
+  { "titulo": "Un Paseo para Recordar", "genero": "romance", "descripcion": "Una chica popular y un joven problemático se enamoran de manera inesperada.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "Eterno Resplandor", "genero": "romance", "descripcion": "Una pareja borra recuerdos para olvidarse el uno del otro.", "plataforma": "HBO Max" },
+  { "titulo": "El lado bueno de las cosas", "genero": "romance", "descripcion": "Después de una crisis emocional, una mujer encuentra esperanza en el amor.", "plataforma": "Netflix" },
+  { "titulo": "Tú a Londres y yo a California", "genero": "romance", "descripcion": "Una chica rica y un músico intercambian casas y vidas por vacaciones.", "plataforma": "Amazon Prime Video" },
+  
+  { "titulo": "Edge of Tomorrow", "genero": "ciencia ficcion", "descripcion": "Un soldado revive el mismo día de una invasión alienígena.", "plataforma": "HBO Max" },
+  { "titulo": "Oblivion", "genero": "ciencia ficcion", "descripcion": "Un recolector en un mundo devastado descubre secretos sobre su misión.", "plataforma": "Netflix" },
+  { "titulo": "Los Juegos del Hambre", "genero": "ciencia ficcion", "descripcion": "Jóvenes luchan a muerte como entretenimiento del Capitolio.", "plataforma": "Amazon Prime Video" },
+  { "titulo": "The Martian", "genero": "ciencia ficcion", "descripcion": "Un astronauta queda varado en Marte y lucha por sobrevivir solo.", "plataforma": "HBO Max" },
+  { "titulo": "Snowpiercer", "genero": "ciencia ficcion", "descripcion": "Los últimos humanos viven en un tren que recorre un mundo congelado.", "plataforma": "Netflix" },
+  { "titulo": "Contact", "genero": "ciencia ficcion", "descripcion": "Una científica recibe señales extraterrestres y busca contacto.", "plataforma": "Paramount+" },
+  { "titulo": "A.I. Inteligencia Artificial", "genero": "ciencia ficcion", "descripcion": "Un niño robot emprende un viaje para convertirse en humano.", "plataforma": "Disney+" },
+  
+  {
+    "titulo": "El Conjuro",
+    "genero": "terror",
+    "descripcion": "Investigadores paranormales enfrentan una presencia demoníaca en una granja.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "Expediente Warren: El caso Enfield",
+    "genero": "terror",
+    "descripcion": "Una familia británica es acechada por un espíritu maligno.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "Annabelle",
+    "genero": "terror",
+    "descripcion": "Una muñeca poseída trae el caos a una joven pareja.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "Hereditary",
+    "genero": "terror",
+    "descripcion": "Una familia se ve perseguida por un legado oscuro tras la muerte de su abuela.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "Midsommar",
+    "genero": "terror",
+    "descripcion": "Un festival sueco se convierte en una pesadilla para un grupo de jóvenes.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "Babadook",
+    "genero": "terror",
+    "descripcion": "Una madre y su hijo enfrentan una criatura sacada de un libro infantil.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "La Bruja",
+    "genero": "terror",
+    "descripcion": "Una familia en el siglo XVII es aterrorizada por fuerzas oscuras en el bosque.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "It (Eso)",
+    "genero": "terror",
+    "descripcion": "Un grupo de niños enfrenta a un payaso demoníaco que toma forma de sus miedos.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "It: Capítulo 2",
+    "genero": "terror",
+    "descripcion": "27 años después, el grupo de amigos regresa a enfrentar a Pennywise.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "Insidious",
+    "genero": "terror",
+    "descripcion": "Una familia trata de salvar a su hijo atrapado en una dimensión espiritual.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "Insidious: Capítulo 2",
+    "genero": "terror",
+    "descripcion": "La familia Lambert descubre la verdad detrás de su conexión con el más allá.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "Sinister",
+    "genero": "terror",
+    "descripcion": "Un escritor encuentra cintas que muestran horribles asesinatos.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "La Monja",
+    "genero": "terror",
+    "descripcion": "Un sacerdote y una novicia enfrentan una fuerza demoníaca en un convento.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "El Exorcista",
+    "genero": "terror",
+    "descripcion": "Una niña es poseída por un demonio, y dos sacerdotes intentan salvarla.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "Actividad Paranormal",
+    "genero": "terror",
+    "descripcion": "Una pareja instala cámaras en casa para registrar fenómenos extraños.",
+    "plataforma": "Paramount+"
+  },
+  {
+    "titulo": "El Aro",
+    "genero": "terror",
+    "descripcion": "Una cinta maldita mata a quien la ve en siete días.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "1408",
+    "genero": "terror",
+    "descripcion": "Un escritor escéptico se enfrenta a una habitación embrujada.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "La Maldición",
+    "genero": "terror",
+    "descripcion": "Una casa en Tokio está marcada por un espíritu vengativo.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "La Cabaña en el Bosque",
+    "genero": "terror",
+    "descripcion": "Cinco jóvenes en una cabaña son parte de un experimento macabro.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "Host",
+    "genero": "terror",
+    "descripcion": "Una videollamada entre amigos se convierte en un ritual demoníaco.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "Un lugar en silencio",
+    "genero": "terror",
+    "descripcion": "Una familia vive en silencio absoluto para evitar monstruos que cazan con el sonido.",
+    "plataforma": "Paramount+"
+  },
+  {
+    "titulo": "Un lugar en silencio 2",
+    "genero": "terror",
+    "descripcion": "Continúa la lucha por sobrevivir en un mundo donde el ruido mata.",
+    "plataforma": "Paramount+"
+  },
+  {
+    "titulo": "Camino hacia el terror",
+    "genero": "terror",
+    "descripcion": "Un grupo se pierde en los bosques de Virginia Occidental con caníbales.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "Escape Room",
+    "genero": "terror",
+    "descripcion": "Un juego de escape mortal pone a prueba a seis desconocidos.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "Smile",
+    "genero": "terror",
+    "descripcion": "Una maldición se transmite con una sonrisa espeluznante.",
+    "plataforma": "Paramount+"
+  },
+  {
+    "titulo": "Barbarian",
+    "genero": "terror",
+    "descripcion": "Una mujer encuentra algo extraño en la casa de alquiler que reservó.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "The Menu",
+    "genero": "terror",
+    "descripcion": "Una cena exclusiva en una isla toma un giro perturbador.",
+    "plataforma": "Disney+"
+  },
+  {
+    "titulo": "Nope",
+    "genero": "terror",
+    "descripcion": "Un avistamiento sobrenatural cambia la vida de unos rancheros.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "Us",
+    "genero": "terror",
+    "descripcion": "Una familia es acechada por sus dobles exactos con intenciones siniestras.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "Get Out",
+    "genero": "terror",
+    "descripcion": "Un joven afroamericano descubre un secreto terrible en la familia de su novia.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "The Purge",
+    "genero": "terror",
+    "descripcion": "Una noche al año, todo crimen es legal.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "The Purge: Anarchy",
+    "genero": "terror",
+    "descripcion": "Durante la purga, varios desconocidos deben sobrevivir juntos.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "La Casa de los 1000 Cuerpos",
+    "genero": "terror",
+    "descripcion": "Un grupo de jóvenes cae en manos de una familia de psicópatas.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "X",
+    "genero": "terror",
+    "descripcion": "Un rodaje de película para adultos se convierte en una carnicería.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "Pearl",
+    "genero": "terror",
+    "descripcion": "Los orígenes sangrientos de una joven reprimida.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "The Ring",
+    "genero": "terror",
+    "descripcion": "Una periodista investiga la cinta maldita que mata en siete días.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "The Grudge",
+    "genero": "terror",
+    "descripcion": "Una casa en Japón está maldita por una tragedia violenta.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "The Others",
+    "genero": "terror",
+    "descripcion": "Una madre y sus hijos viven aislados, esperando al esposo desaparecido.",
+    "plataforma": "Disney+"
+  },
+  {
+    "titulo": "Verónica",
+    "genero": "terror",
+    "descripcion": "Una adolescente invoca accidentalmente un espíritu maligno en Madrid.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "REC",
+    "genero": "terror",
+    "descripcion": "Un brote zombi comienza en un edificio de Barcelona.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "28 días después",
+    "genero": "terror",
+    "descripcion": "Londres queda en ruinas tras un brote de rabia zombi.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "Train to Busan",
+    "genero": "terror",
+    "descripcion": "Un brote zombi interrumpe un viaje en tren en Corea del Sur.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "La Autopsia de Jane Doe",
+    "genero": "terror",
+    "descripcion": "Un cuerpo sin identificar esconde un misterio espeluznante.",
+    "plataforma": "Amazon Prime Video"
+  },
+  {
+    "titulo": "Cadáver",
+    "genero": "terror",
+    "descripcion": "Una joven se enfrenta a fenómenos paranormales en la morgue.",
+    "plataforma": "Netflix"
+  },
+  {
+    "titulo": "La Huésped Maldita",
+    "genero": "terror",
+    "descripcion": "Una niñera descubre un secreto oscuro en la mansión donde trabaja.",
+    "plataforma": "Disney+"
+  },
+  {
+    "titulo": "Ouija",
+    "genero": "terror",
+    "descripcion": "Un grupo de amigos juega con una tabla ouija y despierta algo peligroso.",
+    "plataforma": "Star+"
+  },
+  {
+    "titulo": "Lights Out",
+    "genero": "terror",
+    "descripcion": "Una criatura sobrenatural ataca solo en la oscuridad.",
+    "plataforma": "HBO Max"
+  },
+  {
+    "titulo": "The Possession",
+    "genero": "terror",
+    "descripcion": "Una caja maldita posee a una niña y desata el caos en su familia.",
+    "plataforma": "Amazon Prime Video"
+  }
+]
